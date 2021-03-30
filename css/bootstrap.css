@@ -7672,7 +7672,7 @@ button.close {
     padding-left: 0;
     margin-left: -30%;
     text-align: center;
-    list-style: none
+    list-style: none;
 }
 
 .carousel-indicators li {
